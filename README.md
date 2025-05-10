@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-      <img src="[AI-Prep.png](https://github.com/Ankit-Khairwal/prep-interview/blob/a3c37003cef711f72e2f15f34ab36c4a5f23b226/AI-Prep.png)" alt="Project Banner">
+      <img src="(https://github.com/Ankit-Khairwal/prep-interview/blob/a3c37003cef711f72e2f15f34ab36c4a5f23b226/AI-Prep.png)" alt="Project Banner">
   <br />
   
   <div>
